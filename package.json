@@ -1,0 +1,24 @@
+{
+  "name": "less-plugin-property-order",
+  "version": "0.1.0",
+  "description": "Force to order your properties in less",
+  "keywords": [
+    "less plugins"
+  ],
+  "homepage": "https://github.com/christophehurpeau/less-plugin-property-order",
+  "repository": "git@github.com:christophehurpeau/less-plugin-property-order.git",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "devDependencies": {
+    "less": ">=2.0.0",
+    "diff": "~1.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-shell": "~0.3.1",
+    "mime": "1.2.x"
+  }
+}

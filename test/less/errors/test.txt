@@ -1,0 +1,4 @@
+SyntaxError: position should be before top in {path}test.less on line 3, column 5:
+2     top: 0;
+3     position: absolute;
+4 }
