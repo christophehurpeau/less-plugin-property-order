@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-property-order",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Force to order your properties in less",
   "keywords": [
     "less plugins"
