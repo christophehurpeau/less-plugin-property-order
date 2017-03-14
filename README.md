@@ -1,5 +1,7 @@
 # less-plugin-property-order [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/less-plugin-property-order.svg)](https://greenkeeper.io/)
+
 
 [npm-image]: https://img.shields.io/npm/v/less-plugin-property-order.svg?style=flat
 [npm-url]: https://npmjs.org/package/less-plugin-property-order
